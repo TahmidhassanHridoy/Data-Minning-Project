@@ -1,5 +1,5 @@
 # Data-Minning-Project
-project requiremnents:
+# project requiremnents:
 	- weka tool
 	- classification based data mining application
 	- a real data set (minimum 1000 instances)
@@ -11,7 +11,7 @@ project requiremnents:
 		- predicive accuracy
 		- confusion matrix
 
-Report template:
+# Report template:
 	- standard cover page 
 	- section 1: project overview
 	- section 2: Dataset overview
